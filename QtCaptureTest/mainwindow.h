@@ -8,7 +8,7 @@
 #include <QSlider>
 #include <QMutex>
 #include <vector>
-#include "openpnp-capture.h"
+#include "../include/openpnp-capture.h"
 
 namespace Ui {
 class MainWindow;
